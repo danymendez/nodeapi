@@ -1,0 +1,19 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "proyectos_verbos_api",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danymendez/nodeapi.git"
+  },
+  "author": "Daniel Méndez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danymendez/nodeapi/issues"
+  },
+  "homepage": "https://github.com/danymendez/nodeapi#readme"
+}
